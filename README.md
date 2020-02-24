@@ -3,3 +3,4 @@
 + a class of nice people
 + a broken projector
 + tasty questions from the class
++ better descriptions from student
